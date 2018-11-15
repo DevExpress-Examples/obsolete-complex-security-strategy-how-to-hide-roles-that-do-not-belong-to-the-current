@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomRole.cs](./CS/DXExample.Module/CustomRole.cs) (VB: [CustomRole.vb](./VB/DXExample.Module/CustomRole.vb))
+* [CustomUser.cs](./CS/DXExample.Module/CustomUser.cs) (VB: [CustomUser.vb](./VB/DXExample.Module/CustomUser.vb))
+* **[HideRolesViewController.cs](./CS/DXExample.Module/HideRolesViewController.cs) (VB: [HideRolesViewController.vb](./VB/DXExample.Module/HideRolesViewController.vb))**
+* [Updater.cs](./CS/DXExample.Module/Updater.cs) (VB: [Updater.vb](./VB/DXExample.Module/Updater.vb))
+<!-- default file list end -->
 # OBSOLETE: Complex Security Strategy - How to hide roles that do not belong to the current user
 
 
